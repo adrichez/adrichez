@@ -2,7 +2,7 @@
 
 ![https://github.com/adrichez](https://raw.githubusercontent.com/adrichez/adrichez/main/Principal%20banner.png)
 
-## About me:
+## About me
 I am a restless 22-year-old from a small town in Jaén, Beas de Segura 🌳. From a very young age I have always been passionate about discovering how everything works, investigating the why of things, socializing, meeting new cultures and people, so I enjoy constantly acquiring knowledge and traveling in order to create new experiences. I have always tried to keep myself busy and to combine work with studies, since I consider helping the family as essential, which is why **from an early age I decided to work both in sectors such as hospitality, agriculture and education. 🍽️**
 
 Not losing sight of my desire to see the world, **I participated in the 1st year of Baccalaureate in an Exchange Program in the city of Brighton, England 🇬🇧.** Incredible experience in which I met a multitude of wonderful people and which helped me to increase my desire to live similar experiences.
