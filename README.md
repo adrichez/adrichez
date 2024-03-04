@@ -1,4 +1,4 @@
-# ![https://www.linkedin.com/in/adrian-sanchez-carrion](https://raw.githubusercontent.com/adrichez/adrichez/main/Initial%20emote.png) Hi everyone! 👋  
+Hi everyone! 👋  
 
 ![https://github.com/adrichez](https://raw.githubusercontent.com/adrichez/adrichez/main/Principal%20banner.png)
 
