@@ -1,11 +1,12 @@
 <h1 align="center"><b>Hi everyone, I'm Adrián Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
-
-![https://github.com/adrichez](https://raw.githubusercontent.com/adrichez/adrichez/main/Principal%20banner.png)  
-
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduated+in+Statistics;from+the+University+of+Granada,;Data+Analysis;and+Data+Science+student,;active+Learner/Researcher,;love+to+learn+new+stuffs..<3"></a>
 </p>
+
+![https://github.com/adrichez](https://raw.githubusercontent.com/adrichez/adrichez/main/Principal%20banner.png)  
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
