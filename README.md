@@ -129,6 +129,4 @@ If you have come this far I would love to connect with you and be able to talk. 
 </a>
 </li>
 
-<div align='center'>
-
 </ul>
