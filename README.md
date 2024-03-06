@@ -24,7 +24,7 @@
 
 ## <picture><img src = "https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 50px></picture> **In more detail**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 I am a restless 22-year-old from a small town in Jaén, Beas de Segura 🌳. From a very young age I have always been passionate about discovering how everything works, investigating the why of things, socializing, meeting new cultures and people, so I enjoy constantly acquiring knowledge and traveling in order to create new experiences. I have always tried to keep myself busy and to combine work with studies, since I consider helping the family as essential, which is why **from an early age I decided to work both in sectors such as hospitality, agriculture and education. 🍽️**
 
@@ -132,9 +132,3 @@ If you have come this far I would love to connect with you and be able to talk. 
 <div align='center'>
 
 </ul>
-  
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> **Github Stats**  
