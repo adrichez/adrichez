@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width=50px /> **About me**
 
 - Basketball and volleyball player
 - Passionate about photography and nature
@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <picture><img src = "https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 50px></picture> **In more detail**
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width=50px> **In more detail**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
@@ -60,7 +60,7 @@ If you have come this far I would love to connect with you and be able to talk. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px></picture> **Technologies**
+## <picture><img src = "https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width = 50px></picture> **Technologies**
 
 <img src="./icons/AfterEffects.svg" width="48"> <img src="./icons/Anaconda-Dark.svg" width="48"> <img src="./icons/Apple-Dark.svg" width="48"> <img src="./icons/Audition.svg" width="48"> <img src="./icons/AutoCAD-Dark.svg" width="48"> <img src="./icons/Blender-Dark.svg" width="48"> <img src="./icons/C.svg" width="48"> <img src="./icons/CS.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/Discord.svg" width="48">  <img src="./icons/GCP-Dark.svg" width="48"> <img src="./icons/Git.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/Gmail-Dark.svg" width="48"> <img src="./icons/HTML.svg" width="48"> <img src="./icons/Illustrator.svg" width="48">  <img src="./icons/Instagram.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/JavaScript.svg" width="48"> <img src="./icons/LinkedIn.svg" width="48"> <img src="./icons/Linux-Dark.svg" width="48"> <img src="./icons/Markdown-Dark.svg" width="48"> <img src="./icons/Matlab-Dark.svg" width="48"> <img src="./icons/MySQL-Dark.svg" width="48"> <img src="./icons/NeoVim-Dark.svg" width="48"> <img src="./icons/Notion-Dark.svg" width="48"> <img src="./icons/Obsidian-Dark.svg" width="48"> <img src="./icons/Octave-Dark.svg" width="48"> <img src="./icons/Photoshop.svg" width="48"> <img src="./icons/PHP-Dark.svg" width="48"> <img src="./icons/Premiere.svg" width="48"> <img src="./icons/Python-Dark.svg" width="48"> <img src="./icons/R-Dark.svg" width="48"> <img src="./icons/React-Dark.svg" width="48"> <img src="./icons/StackOverflow-Dark.svg" width="48"> <img src="./icons/Sketchup-Dark.svg" width="48"> <img src="./icons/Twitter.svg" width="48"> <img src="./icons/Ubuntu-Dark.svg" width="48"> <img src="./icons/Unity-Dark.svg" width="48"> <img src="./icons/UnrealEngine.svg" width="48"> <img src="./icons/VSCode-Dark.svg" width="48"> <img src="./icons/Wordpress.svg" width="48"> <img src="./icons/XD.svg" width="48">  
 
@@ -70,7 +70,7 @@ If you have come this far I would love to connect with you and be able to talk. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif?raw=true" width = 60px>  </picture> **Let's Connect!**
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width=50px /> **Let's Connect!**
 <br>
 <div align='left'>
 
