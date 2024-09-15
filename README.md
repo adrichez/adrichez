@@ -27,17 +27,19 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-I am a restless 22-year-old from a small town in Jaén, Beas de Segura 🌳. From a very young age I have always been passionate about discovering how everything works, investigating the why of things, socializing, meeting new cultures and people, so I enjoy constantly acquiring knowledge and traveling in order to create new experiences. I have always tried to keep myself busy and to combine work with studies, since I consider helping the family as essential, which is why **from an early age I decided to work both in sectors such as hospitality, agriculture and education. 🍽️**
+I'm a 22-year-old from Beas de Segura, a small town in Jaén 🌳. A little about me: I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and traveling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture, and education 🍽️.
 
-Not losing sight of my desire to see the world, **I participated in the 1st year of Baccalaureate in an Exchange Program in the city of Brighton, England 🇬🇧.** Incredible experience in which I met a multitude of wonderful people and which helped me to increase my desire to live similar experiences.
+During my first year of high school, I took part in a Cultural Exchange Program in Brighton, England 🇬🇧, which was an enriching adventure that fueled my passion for more experiences like it.
 
-Thus, **in 2019 I began the Degree in Statistics at the University of Granada 🎓**, given that the world of science, mathematics, computing, economics and events as simple as the launch of a currency. Today, once this process is finished, I can say that it has been one of the best decisions I have made. Taking advantage of this adventure, **I decided to immerse myself in the Erasmus experience during the 2021/2022 academic year with the Università degli Studi di Padova, Italy 🇮🇹**, a country and people who helped me grow as a person and live experiences that I would never have imagined before. Without a doubt one of the best experiences of my life. 🌍
+In 2019, I began my degree in Statistics at the University of Granada 🎓, driven by my love for science, particularly mathematics, computer science, and economics. In the 2021/2022 academic year, I joined the Erasmus+ program at the Università degli Studi di Padova in Italy 🇮🇹. This unforgettable experience, the country, and the people helped me grow personally and create lasting memories 🌍.
 
-We reached the year 2023, where all this effort has been rewarded with the unexpected event of **being part of the 20 students selected by the University of Granada for the Professional Skills Acceleration Program of the UGR Talent Incubator 🎖️**, a unique and incredible training opportunity through experiential learning in soft skills such as servant leadership, assertive communication, emotional management, teamwork, organizational skills and SDGs. Absolutely, it has been a great experience of personal development and together with coaching and mentoring seminars, it has been the finishing touch to this university experience.
+In 2023, after years of hard work, I was honored to be selected among the top 20 students at the University of Granada for the UGR Talent Incubator’s Professional Skills Acceleration Program 🎖️. This program, which focused on soft skills, coaching, mentoring, teamwork, and sustainable development, was the perfect end to my university journey.
 
-Having summarized my life in broad strokes, saying that this is just the beginning, I consider myself a proactive person who loves challenges, so there is still a long way to go! 💪
+After the global situation left me feeling disconnected, I decided to take a "gap" year in 2023/2024. I wanted to reconnect with people 🤲 and explore new paths on my own. Thanks to the University of Malaga, the European Solidarity Corps, and self-study, I spent the year volunteering, taking courses, and working in different countries. During this time, I gained new skills, built meaningful relationships, and grew more confident in several languages 🇪🇺.
 
-If you have come this far I would love to connect with you and be able to talk. 😊
+Now, in 2024, I’m back at the University of Granada, diving deeper into my studies with a Master’s in Data Science and Computer Engineering 👨🏻‍💻🧬.
+
+If you've made it this far, I'd love to connect and chat! 😊
 
 <br>
 
