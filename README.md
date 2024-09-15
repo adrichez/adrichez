@@ -17,7 +17,7 @@
 - Passionate about photography and nature
 - Currently learning Data Science
 - Personal website [link](soon) (soon)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/adrian-sanchez-carrion/overlay/1708538317448/single-media-viewer/?profileId=ACoAAD-dcxQBkp5ptdR_RY-YmWgeQndx25R3Mb0)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/adrian-sanchez-carrion/overlay/1726438867420/single-media-viewer/?profileId=ACoAAD-dcxQBkp5ptdR_RY-YmWgeQndx25R3Mb0)
 
 <br>
 
