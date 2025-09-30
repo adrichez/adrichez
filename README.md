@@ -3,7 +3,7 @@
 
   <!-- Nombre + gif -->
   <h1 align="center" style="margin-bottom: -15px;">
-    <b><span style="color:#1CB698;">Hi everyone, I'm Adrián Sánchez</span></b>
+    <b><span style="color:#1CB698;">Hi everyone, I'm Adrián</span></b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
 
