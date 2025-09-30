@@ -86,7 +86,7 @@
 <!-- MÁS DETALLES -->
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40px">
   <span style="color:#1CB698;">In more detail</span>
 </h2>
 
@@ -121,7 +121,7 @@
 <!-- LENGUAJES DE PROGRAMACIÓN Y HERRAMIENTAS -->
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px">
   <span style="color:#1CB698;">Languages and Tools</span>
 </h2>
 
