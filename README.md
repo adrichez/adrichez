@@ -180,22 +180,22 @@
   <span style="color:#1CB698;">My GitHub Stats</span>
 </h2>
 
-<p align="center">
+<p align="center" style="color:#4cd7b3; font-style:italic;">
   Here’s an overview of my coding activity and top languages on GitHub. 📈
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&hide_border=false&layout=compact" alt="Top Languages" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrichez&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adrichez&show_icons=true&hide_border=false&count_private=true&title_color=1CB698&text_color=eaeaea&icon_color=4cd7b3&bg_color=1a1a1a" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea" alt="GitHub Streak" width="450"/>
 </p>
 
 <br>
@@ -219,11 +219,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adrian-sanchez-carrion" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=0f6b5d&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=0033ff&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://twitter.com/adriichez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=1CB698&style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?color=0099ff&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   
   <a href="mailto:asanca33@gmail.com" target="_blank">
