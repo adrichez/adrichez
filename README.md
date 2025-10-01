@@ -63,7 +63,7 @@
 
   <li>🌐 <b>Portfolio & Networking:</b>
     <ul>
-      <li>Check my <b>personal portfolio</b> → <a href="https://tuenlaceportfolio.com" target="_blank" style="text-decoration: underline; color: #1CB698;">Portfolio</a></li>
+      <li>Check my <b>personal portfolio</b> → <a href="https://adrichez.github.io/english-portfolio/" target="_blank" style="text-decoration: underline; color: #1CB698;">Portfolio</a></li>
       <li>GitHub projects & repositories → <a href="https://github.com/adrichez" target="_blank" style="text-decoration: underline; color: #1CB698;">Repositories</a></li>
       <li>Always open to <b>connect, collaborate, and share knowledge</b> with others.</li>
     </ul>
