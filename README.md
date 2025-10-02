@@ -19,18 +19,17 @@
 
 </div>
 
+
+
+
+
+
+
+
 <!-- Línea divisoria -->
 <br>
+<br>
 <img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
-<br>
-<br>
-
-
-
-
-
-
-
 
 <!-- SOBRE MÍ -->
 
@@ -70,18 +69,17 @@
   </li>
 </ul>
 
+
+
+
+
+
+
+
 <!-- Línea divisoria -->
 <br>
+<br>
 <img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
-<br>
-<br>
-
-
-
-
-
-
-
 
 <!-- MÁS DETALLES -->
 
@@ -106,17 +104,17 @@
 
 <p>If you've made it this far, I'd love to connect and chat! 😊</p>
 
+
+
+
+
+
+
+
+<!-- Línea divisoria -->
+<br>
 <br>
 <img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
-<br>
-<br>
-
-
-
-
-
-
-
 
 <!-- LENGUAJES DE PROGRAMACIÓN Y HERRAMIENTAS -->
 
@@ -161,17 +159,17 @@
   And more... always learning! 📚
 </p>
 
+
+
+
+
+
+
+
+<!-- Línea divisoria -->
+<br>
 <br>
 <img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
-<br>
-<br>
-
-
-
-
-
-
-
 
 <!-- ESTADÍSTICAS DE GITHUB -->
 
@@ -198,17 +196,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea" alt="GitHub Streak" width="450"/>
 </p>
 
+
+
+
+
+
+
+
+<!-- Línea divisoria -->
+<br>
 <br>
 <img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
-<br>
-<br>
-
-
-
-
-
-
-
 
 <!-- CONTACTO -->
 
