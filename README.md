@@ -15,7 +15,7 @@
   </p>
 
   <!-- Banner principal -->
-  <img src="resources/images/banner.jpeg" alt="Principal Banner" width="100%" style="border-radius: 10px;">
+  <img src="resources/images/banner.png" alt="Principal Banner" width="100%" style="border-radius: 10px;">
 
 </div>
 
@@ -29,7 +29,7 @@
 <!-- Línea divisoria -->
 <br>
 <br>
-<img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
+<img src="resources/gifs/linea_divisora_2.gif" width="100%" style="border-radius: 10px;">
 
 <!-- SOBRE MÍ -->
 
@@ -79,7 +79,7 @@
 <!-- Línea divisoria -->
 <br>
 <br>
-<img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
+<img src="resources/gifs/linea_divisora_2.gif" width="100%" style="border-radius: 10px;">
 
 <!-- MÁS DETALLES -->
 
@@ -114,7 +114,7 @@
 <!-- Línea divisoria -->
 <br>
 <br>
-<img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
+<img src="resources/gifs/linea_divisora_2.gif" width="100%" style="border-radius: 10px;">
 
 <!-- LENGUAJES DE PROGRAMACIÓN Y HERRAMIENTAS -->
 
@@ -169,7 +169,7 @@
 <!-- Línea divisoria -->
 <br>
 <br>
-<img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
+<img src="resources/gifs/linea_divisora_2.gif" width="100%" style="border-radius: 10px;">
 
 <!-- ESTADÍSTICAS DE GITHUB -->
 
@@ -206,7 +206,7 @@
 <!-- Línea divisoria -->
 <br>
 <br>
-<img src="resources/gifs/linea-imagen-animada-0386.gif" width="100%" style="border-radius: 10px;">
+<img src="resources/gifs/linea_divisora_2.gif" width="100%" style="border-radius: 10px;">
 
 <!-- CONTACTO -->
 
