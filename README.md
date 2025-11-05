@@ -185,19 +185,19 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&langs_count=10" alt="Top Languages" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&langs_count=10" alt="Top Languages" width="320"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrichez&show_icons=true&hide_border=false&count_private=true&title_color=1CB698&text_color=eaeaea&icon_color=4cd7b3&bg_color=1a1a1a" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adrichez&show_icons=true&hide_border=false&count_private=true&title_color=1CB698&text_color=eaeaea&icon_color=4cd7b3&bg_color=1a1a1a" alt="GitHub Stats" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea" alt="GitHub Streak" width="550"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea" alt="GitHub Streak" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" width="630"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" width="500"/>
 </p>
 
 
