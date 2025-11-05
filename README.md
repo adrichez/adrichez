@@ -90,7 +90,7 @@
 
 <p>Hi everyone! 👋</p>
 
-<p>I'm a 23-year-old from Beas de Segura, a small town in Jaén 🌳. I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and travelling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture and education 🍽️.</p>
+<p>I'm a 24-year-old from Beas de Segura, a small town in Jaén 🌳. I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and travelling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture and education 🍽️.</p>
 
 <p>During my first year of high school, I took part in a Cultural Exchange Program in Brighton, England 🇬🇧, which was an enriching adventure that fueled my passion for more experiences like it.</p>
 
