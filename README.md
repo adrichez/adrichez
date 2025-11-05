@@ -185,7 +185,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&hide_border=false&layout=compact" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a" alt="Top Languages" width="450"/>
 </p>
 
 <p align="center">
