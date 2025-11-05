@@ -90,7 +90,7 @@
 
 <p>Hi everyone! 👋</p>
 
-<p>I'm a 24-year-old from Beas de Segura, a small town in Jaén 🌳. I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and travelling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture and education 🍽️.</p>
+<p>I'm a 24-year-old from Beas de Segura, a small town in Jaén 🌳. I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and travelling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture, and education 🍽️.</p>
 
 <p>During my first year of high school, I took part in a Cultural Exchange Program in Brighton, England 🇬🇧, which was an enriching adventure that fueled my passion for more experiences like it.</p>
 
@@ -100,9 +100,7 @@
 
 <p>After the global situation left me feeling disconnected, I decided to take a "gap" year in 2023/2024. I wanted to reconnect with people 🤲 and explore new paths on my own. Thanks to the University of Malaga, the European Solidarity Corps, and self-study, I spent the year volunteering, taking courses, and working in different countries. During this time, I gained new skills, built meaningful relationships, and grew more confident in several languages 🇪🇺.</p>
 
-<p>Now, in 2024/2025, I’m back at the University of Granada, diving deeper into my studies with a Master’s in Data Science and Computer Engineering 👨🏻‍💻🧬.</p>
-
-<p>If you've made it this far, I'd love to connect and chat! 😊</p>
+<p>In 2024/2025, I’m back at the University of Granada, pursuing a Master’s in Data Science and Computer Engineering 👨🏻‍💻🧬. Currently, I’m working as a bioinformatician while carrying out my Master’s thesis (TFM) at the <strong>Instituto de Parasitología y Biomedicina López-Neyra</strong> in Granada 🧫. This experience allows me to combine my passion for data science with cutting-edge research in biology and medicine, gaining hands-on expertise in bioinformatics and computational analysis.</p>
 
 
 
