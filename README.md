@@ -186,27 +186,41 @@
   <tr>
     <!-- Columna izquierda -->
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&langs_count=10" alt="Top Languages" width="292"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&langs_count=10&cache_seconds=3600&v=2" 
+        alt="Top Languages" 
+        width="292"
+      />
     </td>
     <!-- Columna derecha -->
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=adrichez&show_icons=true&hide_border=false&count_private=true&title_color=1CB698&text_color=eaeaea&icon_color=4cd7b3&bg_color=1a1a1a" alt="GitHub Stats" width="490"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=adrichez&show_icons=true&hide_border=false&count_private=true&title_color=1CB698&text_color=eaeaea&icon_color=4cd7b3&bg_color=1a1a1a&cache_seconds=3600&v=2" 
+        alt="GitHub Stats" 
+        width="490"
+      />
       <br>
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea" alt="GitHub Streak" width="490"/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&hide_border=false&background=1a1a1a&stroke=12806d&ring=1CB698&fire=ff6f61&currStreakLabel=4cd7b3&currStreakNum=1CB698&sideNums=1CB698&sideLabels=4cd7b3&dates=eaeaea&cache_seconds=3600&v=2" 
+        alt="GitHub Streak" 
+        width="490"
+      />
       <div style="height:5px;"></div>
     </td>
   </tr>
-
   <!-- Fila inferior: Trophies -->
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=30&margin-h=30&column=4" alt="GitHub Trophies" width="800"/>
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=30&margin-h=30&column=4&cache_seconds=3600&v=2" 
+        alt="GitHub Trophies" 
+        width="800"
+      />
     </td>
   </tr>
 </table>
-
 
 
 
