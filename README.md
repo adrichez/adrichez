@@ -121,39 +121,82 @@
   <span style="color:#1CB698;">Languages and Tools</span>
 </h2>
 
+<h3 align="center">
+  <span style="color:#4cd7bb;">🧠 Programming & Data Science</span>
+</h3>
 <p align="center">
   <!-- Programming & Data Science -->
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/></a>
-  <a href="https://www.rstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original.svg" width="40"/></a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="40"/></a>
-  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/></a>
-  <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/></a>
-  <!-- Photography & Video -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40"/></a>
-  <a href="https://www.adobe.com/products/indesign.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="40"/></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="resources/icons/python.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.r-project.org/" target="_blank"><img src="resources/icons/r.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://posit.co/download/rstudio-desktop/" target="_blank"><img src="resources/icons/rstudio.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://jupyter.org/" target="_blank"><img src="resources/icons/jupyter.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://quarto.org/" target="_blank"><img src="resources/icons/quarto.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.anaconda.com/" target="_blank"><img src="resources/icons/anaconda.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.wolfram.com/language/" target="_blank"><img src="resources/icons/wolframlanguage.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="resources/icons/wolframmathematica.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.overleaf.com/" target="_blank"><img src="resources/icons/overleaf.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.latex-project.org/" target="_blank"><img src="resources/icons/latex.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://nextflow.io/" target="_blank"><img src="resources/icons/nextflow.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://hadoop.apache.org/" target="_blank"><img src="resources/icons/hadoop.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.mysql.com/" target="_blank"><img src="resources/icons/mysql.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.postgresql.org/" target="_blank"><img src="resources/icons/postgresql.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://sqlite.org/" target="_blank"><img src="resources/icons/sqlite.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.w3schools.com/sql/" target="_blank"><img src="resources/icons/sql.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="resources/icons/spss-plain.svg" width="40" /></a>
 </p>
 
+<h3 align="center">
+  <span style="color:#4cd7bb;">🌐 Web Development</span>
+</h3>
 <p align="center">
+  <!-- Web Development -->
+  <a href="https://www.w3.org/html/" target="_blank"><img src="resources/icons/html5.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="resources/icons/css3.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="resources/icons/javascript.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.markdownguide.org/" target="_blank"><img src="resources/icons/markdown.svg" width="40" /></a>
+</p>
+
+<h3 align="center">
+  <span style="color:#4cd7bb;">🛠️ Tools & Technologies</span>
+</h3>
+<p align="center">
+  <!-- Tools -->
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="resources/icons/vscode.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://git-scm.com/" target="_blank"><img src="resources/icons/git.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://github.com/" target="_blank"><img src="resources/icons/github.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.docker.com/" target="_blank"><img src="resources/icons/docker.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://learn.microsoft.com/azure/" target="_blank"><img src="resources/icons/azure.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="resources/icons/bash.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.linux.org/" target="_blank"><img src="resources/icons/linux.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.microsoft.com/windows/" target="_blank"><img src="resources/icons/windows.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.apple.com/macos/" target="_blank"><img src="resources/icons/apple.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://developer.android.com/" target="_blank"><img src="resources/icons/android.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://apptainer.org/" target="_blank"><img src="resources/icons/apptainer.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://stackoverflow.com/" target="_blank"><img src="resources/icons/stackoverflow.svg" width="40" /></a>
+</p>
+
+<h3 align="center">
+  <span style="color:#4cd7bb;">🎨 Photography & Video</span>
+</h3>
+<p align="center">
+  <!-- Photography & Video -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="resources/icons/photoshop.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="resources/icons/illustrator.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="resources/icons/davinciresolve.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.canva.com/" target="_blank"><img src="resources/icons/canva.svg" width="40" /></a>
+</p>
+
+<h3 align="center">
+  <span style="color:#4cd7bb;">🏛️ Architecture & Design</span>
+</h3>
+<p align="center">
+  <!-- Architecture & Design -->
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img src="resources/icons/autocad.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://graphisoft.com/solutions/archicad" target="_blank"><img src="resources/icons/archicad.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://www.sketchup.com/" target="_blank"><img src="resources/icons/sketchup.svg" width="40" /></a>
+</p>
+
+<p align="center" style="color:#7bead4; font-style:italic;">
   And more... always learning! 📚
 </p>
 
@@ -172,16 +215,17 @@
 <!-- ESTADÍSTICAS DE GITHUB -->
 
 <h2>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NocDcxcnp2OWRhc2cxamR2ZjUyNWQ2Z29qZ29sM3ptaDk0c2xoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="40px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NocDcxcnp2OWRhc2cxamR2ZjUyNWQ2Z29qZ29sM3ptaDk0c2xoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="42px">
   <span style="color:#1CB698;">My GitHub Stats</span>
 </h2>
 
-<p align="center" style="color:#4cd7b3; font-style:italic;">
+<p align="center" style="color:#7bead4; font-style:italic;">
   Here’s an overview of my coding activity and top languages on GitHub. 📈
 </p>
 
 <br>
 
+<p align="center">
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Columna izquierda -->
@@ -216,7 +260,7 @@
       <img 
         src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=30&margin-h=30&column=4&cache_seconds=3600&v=2" 
         alt="GitHub Trophies" 
-        width="800"
+        width="750"
       />
     </td>
   </tr>
@@ -237,7 +281,7 @@
 <!-- CONTACTO -->
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width=40px>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQxbTlqMzJtaXFsM3R2MW5obnkzcHl3aDVqZjNxZ3lzeHRkYWp4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pFuQkU1HWZ4khyVYFt/giphy.gif" width=45px>
   <span style="color:#1CB698;">Contact</span>
 </h2>
 
