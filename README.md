@@ -189,7 +189,7 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrichez&theme=vue-dark&title_color=1CB698&text_color=eaeaea&icon_color=ff6f61&bg_color=1a1a1a&langs_count=10&cache_seconds=3600&v=2" 
         alt="Top Languages" 
-        width="292"
+        width="320"
       />
     </td>
     <!-- Columna derecha -->
