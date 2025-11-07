@@ -260,7 +260,7 @@
       <img 
         src="https://github-profile-trophy.vercel.app/?username=adrichez&theme=tokyonight&margin-w=30&margin-h=30&column=4&cache_seconds=3600&v=2" 
         alt="GitHub Trophies" 
-        width="750"
+        width="650"
       />
     </td>
   </tr>
