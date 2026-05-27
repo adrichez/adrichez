@@ -1,4 +1,5 @@
 <!-- ENCABEZADO -->
+
 <div align="center">
 
   <!-- Nombre + gif -->
@@ -51,9 +52,9 @@
 
   <li>🎓 <b>Professional Path:</b>
     <ul>
-      <li>Graduated in <b>Statistics</b> from the University of Granada.</li>
-      <li>Currently pursuing a Master’s in <b>Data Science & Computer Engineering</b>.</li>
-      <li>Gained experience in <b>hospitality, agriculture, and education</b> through various jobs and volunteer programs.</li>
+      <li>Graduated in <b>Statistics</b> from the University of Granada and completed a Master’s in <b>Data Science and Computer Science</b>.</li>
+      <li>Gained solid technical experience as a <b>Bioinformatics Developer</b> at CSIC, focusing on workflow automation and NLP solutions.</li>
+      <li>Backed by a diverse background spanning <b>international volunteering, education, and hospitality</b>.</li>
       <li>Open to <b>internships or new job opportunities</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
     </ul>
   </li>
