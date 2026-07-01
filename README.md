@@ -262,7 +262,7 @@ I am always open to connecting, sharing ideas, and collaborating on projects rel
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://www.canva.com/design/DAFZ7nFz7OI/view" target="_blank">
+  <a href="https://adrichez.github.io/english-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%231CB698.svg?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
