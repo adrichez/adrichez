@@ -52,10 +52,11 @@
 
   <li>🎓 <b>Professional Path:</b>
     <ul>
-      <li>Graduated in <b>Statistics</b> from the University of Granada and completed a Master’s in <b>Data Science and Computer Science</b>.</li>
-      <li>Gained solid technical experience as a <b>Bioinformatics Developer</b> at CSIC, focusing on workflow automation and NLP solutions.</li>
+      <li>Hold a <b>BSc in Statistics</b> and an <b>MSc in Data Science and Computer Engineering</b> from the University of Granada.</li>
+      <li>Currently working as an <b>R&D&I Tech Specialist</b> at the Institute of Mathematics (IMAG).</li>
+      <li>Gained solid experience as a <b>Bioinformatics Developer</b> at CSIC, automating workflows and deploying NLP solutions.</li>
       <li>Backed by a diverse background spanning <b>international volunteering, education, and hospitality</b>.</li>
-      <li>Open to <b>internships or new job opportunities</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
+      <li>Open to <b>new job opportunities or collaborations</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
     </ul>
   </li>
 
@@ -89,19 +90,13 @@
   <span style="color:#1CB698;">In more detail</span>
 </h2>
 
-<p>Hi everyone! 👋</p>
+I am a Data Scientist and Statistician from Beas de Segura (Jaén, Spain) 📍. I am passionate about analyzing data to solve complex problems, continuous learning, and collaborating in multidisciplinary environments.
 
-<p>I'm a 24-year-old from Beas de Segura, a small town in Jaén 🌳. I've always been fascinated by how things work, exploring new ideas, and connecting with others. I love learning and travelling to gain new experiences. Over the years, I've kept myself busy balancing work and studies, gaining experience in hospitality, agriculture, and education 🍽️.</p>
+I holds a Bachelor's degree in Statistics from the University of Granada 🎓 (including an Erasmus+ stay at the Università di Padova 🇮🇹 and professional training at the UGR Talent Incubator). Following an international volunteering experience with the European Solidarity Corps 🌍, I pursued a Master's degree in Data Science and Computer Engineering, where I developed GenoScribe, an intelligent system for automated bioinformatics reporting 💻.
 
-<p>During my first year of high school, I took part in a Cultural Exchange Program in Brighton, England 🇬🇧, which was an enriching adventure that fueled my passion for more experiences like it.</p>
+After working as a Bioinformatics Developer at CSIC-IPBLN (under a JAE Intro ICU fellowship), I am currently an R&D&I Technical Support and Management Specialist at the Institute of Mathematics of the University of Granada (IMAG). In this role, I am responsible for managing IT infrastructure, administering web systems, and providing technological support to research groups.
 
-<p>In 2019, I began my degree in Statistics at the University of Granada 🎓, driven by my love for science, particularly mathematics, computer science, and economics. In the 2021/2022 academic year, I joined the Erasmus+ program at the Università degli Studi di Padova in Italy 🇮🇹. This unforgettable experience, the country, and the people helped me grow personally and create lasting memories 🌍.</p>
-
-<p>In 2023, after years of hard work, I was honored to be selected among the top 20 students at the University of Granada for the UGR Talent Incubator’s Professional Skills Acceleration Program 🎖️. This program, which focused on soft skills, coaching, mentoring, teamwork, and sustainable development, was the perfect end to my university journey.</p>
-
-<p>After the global situation left me feeling disconnected, I decided to take a "gap" year in 2023/2024. I wanted to reconnect with people 🤲 and explore new paths on my own. Thanks to the University of Malaga, the European Solidarity Corps, and self-study, I spent the year volunteering, taking courses, and working in different countries. During this time, I gained new skills, built meaningful relationships, and grew more confident in several languages 🇪🇺.</p>
-
-<p>In 2024/2025, I’m back at the University of Granada, pursuing a Master’s in Data Science and Computer Engineering 👨🏻‍💻🧬. Currently, I’m working as a bioinformatician while carrying out my Master’s thesis (TFM) at the <strong>Instituto de Parasitología y Biomedicina López-Neyra</strong> in Granada 🧫. This experience allows me to combine my passion for data science with cutting-edge research in biology and medicine, gaining hands-on expertise in bioinformatics and computational analysis.</p>
+I am always open to connecting, sharing ideas, and collaborating on projects related to data science, bioinformatics, and technology 🤝.
 
 
 
@@ -137,7 +132,8 @@
   --><a href="https://www.wolfram.com/mathematica/" target="_blank"><img src="resources/icons/wolframmathematica.svg" width="40" /></a>&nbsp;<!--
   --><a href="https://www.overleaf.com/" target="_blank"><img src="resources/icons/overleaf.svg" width="40" /></a>&nbsp;<!--
   --><a href="https://www.latex-project.org/" target="_blank"><img src="resources/icons/latex.svg" width="40" /></a>&nbsp;<!--
-  --><a href="https://nextflow.io/" target="_blank"><img src="resources/icons/nextflow.svg" width="40" /></a>&nbsp;<!--
+  --><a href="https://nextflow.io/" target="_blank"><img src="resources/icons/nextflow.svg" width="36" /></a>&nbsp;<!--
+  --><a href="https://nf-co.re/" target="_blank"><img src="resources/icons/nfcore.svg" width="46" /></a>&nbsp;<!--
   --><a href="https://hadoop.apache.org/" target="_blank"><img src="resources/icons/hadoop.svg" width="40" /></a>&nbsp;<!--
   --><a href="https://www.mysql.com/" target="_blank"><img src="resources/icons/mysql.svg" width="40" /></a>&nbsp;<!--
   --><a href="https://www.postgresql.org/" target="_blank"><img src="resources/icons/postgresql.svg" width="40" /></a>&nbsp;<!--
@@ -228,7 +224,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=adrichez&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=adrichez&theme=dark&title=7bead4&ring=1CB698&fire=FBBF24&currStreakNum=3888f8&sideNums=3888f8&currStreakLabel=7bead4&sideLabels=7bead4&dates=94a3b8" 
     alt="GitHub Streak" 
     width="490"
   />
