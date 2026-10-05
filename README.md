@@ -10,9 +10,9 @@
 
   <!-- Typing SVG -->
   <p align="center" style="margin-top: -15px;">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A2E8D3&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduated+in+Statistics;and+Data+Science;from+the+University+of+Granada,;Bioinformatician;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
-    </a>
+      <a href="https://github.com/adrichez">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A2E8D3&size=25&center=true&vCenter=true&width=600&height=100&lines=PhD+Researcher+in+Data+Science;Statistician+%26+Data+Scientist;Machine+Learning+for+Heritage;Always+learning+new+things...%3C3" alt="Typing SVG">
+      </a>
   </p>
 
   <!-- Banner principal -->
@@ -50,14 +50,22 @@
 
   <br>
 
-  <li>🎓 <b>Professional Path:</b>
+  <li>🎓 <b>Education:</b>
     <ul>
-      <li>Hold a <b>BSc in Statistics</b> and an <b>MSc in Data Science and Computer Engineering</b> from the University of Granada.</li>
       <li>Currently pursuing a <b>PhD in Information and Communication Technologies</b>, specializing in Data Mining, at the University of Granada.</li>
+      <li>Hold an <b>MSc in Data Science and Computer Engineering</b> from the University of Granada.</li>
+      <li>Hold a <b>BSc in Statistics</b> from the University of Granada, which included an <b>Erasmus exchange year at the University of Padua</b> (Italy).</li>
+    </ul>
+  </li>
+
+  <br>
+
+  <li>💼 <b>Work Experience:</b>
+    <ul>
       <li>Working as a <b>PhD Researcher in Data Science and Heritage</b> at IGEO-CSIC/CENIM-CSIC, developing Machine Learning, Computer Vision, and predictive models for cultural heritage research.</li>
-      <li>Gained experience as a <b>Bioinformatics Developer</b> at IPBLN-CSIC, automating workflows and developing intelligent data analysis solutions and working as an <b>R&D&I Tech Specialist</b> at the Institute of Mathematics (IMAG).</li>
+      <li>Worked as an <b>R&D&I Tech Specialist</b> at the Institute of Mathematics (IMAG).</li>
+      <li>Gained experience as a <b>Bioinformatics Developer</b> at IPBLN-CSIC, automating workflows and developing intelligent data analysis solutions.</li>
       <li>Backed by a diverse background spanning <b>international volunteering, education, and scientific research</b>.</li>
-      <li>Open to <b>research collaborations and professional opportunities</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
     </ul>
   </li>
 
@@ -65,6 +73,7 @@
 
   <li>🌐 <b>Portfolio & Networking:</b>
     <ul>
+      <li>Open to <b>research collaborations and professional opportunities</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
       <li>Check my <b>personal portfolio</b> → <a href="https://adrichez.github.io/english-portfolio/" target="_blank" style="text-decoration: underline; color: #1CB698;">Portfolio</a>.</li>
       <li>GitHub projects & repositories → <a href="https://github.com/adrichez" target="_blank" style="text-decoration: underline; color: #1CB698;">Repositories</a>.</li>
       <li>Always open to <b>connect, collaborate, and share knowledge</b> with others.</li>
