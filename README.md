@@ -90,13 +90,13 @@
   <span style="color:#1CB698;">In more detail</span>
 </h2>
 
-I am a Data Scientist and Statistician from Beas de Segura (Jaén, Spain) 📍. I am passionate about analyzing data to solve complex problems, continuous learning, and collaborating in multidisciplinary environments.
+I am a Data Scientist and PhD Researcher from Beas de Segura (Jaén, Spain) 📍. I am passionate about analyzing data to solve complex problems, continuous learning, and collaborating in multidisciplinary environments.
 
-I holds a Bachelor's degree in Statistics from the University of Granada 🎓 (including an Erasmus+ stay at the Università di Padova 🇮🇹 and professional training at the UGR Talent Incubator). Following an international volunteering experience with the European Solidarity Corps 🌍, I pursued a Master's degree in Data Science and Computer Engineering, where I developed GenoScribe, an intelligent system for automated bioinformatics reporting 💻.
+I hold a Bachelor's degree in Statistics from the University of Granada 🎓 (including an Erasmus+ stay at the Università di Padova 🇮🇹 and professional training at the UGR Talent Incubator). Following an international volunteering experience with the European Solidarity Corps 🌍, I pursued a Master's degree in Data Science and Computer Engineering, where I developed GenoScribe, an intelligent system for automated bioinformatics reporting 💻.
 
-After working as a Bioinformatics Developer at CSIC-IPBLN (under a JAE Intro ICU fellowship), I am currently an R&D&I Technical Support and Management Specialist at the Institute of Mathematics of the University of Granada (IMAG). In this role, I am responsible for managing IT infrastructure, administering web systems, and providing technological support to research groups.
+After roles as a Bioinformatics Developer (CSIC-IPBLN) and R&D&I Tech Specialist (IMAG-UGR), I am currently pursuing a PhD in Information and Communication Technologies, specializing in Data Mining, at the University of Granada, while conducting my research at the Geosciences Institute (IGEO, CSIC-UCM) and CENIM (CSIC) in Madrid. My research within the TEC Heritage-CM project focuses on developing Machine Learning, Computer Vision, and predictive models to analyze large volumes of experimental data and preserve cultural heritage.
 
-I am always open to connecting, sharing ideas, and collaborating on projects related to data science, bioinformatics, and technology 🤝.
+I am always open to connecting, sharing ideas, and collaborating on projects related to data science, artificial intelligence, and scientific research 🤝.
 
 
 
