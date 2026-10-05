@@ -53,10 +53,11 @@
   <li>🎓 <b>Professional Path:</b>
     <ul>
       <li>Hold a <b>BSc in Statistics</b> and an <b>MSc in Data Science and Computer Engineering</b> from the University of Granada.</li>
-      <li>Currently working as an <b>R&D&I Tech Specialist</b> at the Institute of Mathematics (IMAG).</li>
-      <li>Gained solid experience as a <b>Bioinformatics Developer</b> at CSIC, automating workflows and deploying NLP solutions.</li>
-      <li>Backed by a diverse background spanning <b>international volunteering, education, and hospitality</b>.</li>
-      <li>Open to <b>new job opportunities or collaborations</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
+      <li>Currently pursuing a <b>PhD in Information and Communication Technologies</b>, specializing in Data Mining, at the University of Granada.</li>
+      <li>Working as a <b>PhD Researcher in Data Science and Heritage</b> at IGEO-CSIC/CENIM-CSIC, developing Machine Learning, Computer Vision, and predictive models for cultural heritage research.</li>
+      <li>Gained experience as a <b>Bioinformatics Developer</b> at IPBLN-CSIC, automating workflows and developing intelligent data analysis solutions and working as an <b>R&D&I Tech Specialist</b> at the Institute of Mathematics (IMAG).</li>
+      <li>Backed by a diverse background spanning <b>international volunteering, education, and scientific research</b>.</li>
+      <li>Open to <b>research collaborations and professional opportunities</b> → <a href="resources/documents/Adrian Sanchez Carrion&apos;s Curriculum Vitae.pdf" target="_blank" style="text-decoration: underline; color: #1CB698;">My Resume</a>.</li>
     </ul>
   </li>
 
