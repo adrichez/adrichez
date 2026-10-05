@@ -234,7 +234,7 @@ I am always open to connecting, sharing ideas, and collaborating on projects rel
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=adrichez&theme=dark&title=7bead4&ring=1CB698&fire=FBBF24&currStreakNum=3888f8&sideNums=3888f8&currStreakLabel=7bead4&sideLabels=7bead4&dates=94a3b8" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adrichez&theme=dark&title=7bead4&ring=1CB698&fire=FBBF24&currStreakNum=3888f8&sideNums=3888f8&currStreakLabel=7bead4&sideLabels=7bead4&dates=94a3b8" 
     alt="GitHub Streak" 
     width="490"
   />
